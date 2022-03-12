@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f7941e;
+}
+
+span {
+    font-size: medium;
+    font-weight: 300;
+}
+
+
+h1 {
+    margin-bottom: 2em;
+    color: whitesmoke;
+}
+.body{
+    display: block;
+}
+
+ .caixa{
+     margin: 1em;
+     margin-bottom: 0.3em;
+ }
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.app{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 1.5em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.texto{
+    display: flex;
+    justify-content: end;
+    
+}
+.texto-div{
+    position: fixed;
+}
