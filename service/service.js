@@ -110,11 +110,8 @@ Então se tu fizer tua matrícula este mês pode fazer em 1+8.`
 },
 {
     id: "Interesse no curso",
-    texto: `O valor da renovação será calculada sobre o valor total que o aluno terá de economia no semestre.
-
-Exemplo: No curso “x” o valor integral é 500 reais e o aluno terá a bolsa de 50%. A mensalidade que ele irá pagar será de 250 reais e ele terá uma economia dos outros 250 reais.
-
-O valor total da economia no semestre será 250 reais multiplicado pelos 6 meses = 1250 reais. Sobre esse valor aplicamos 25%. O aluno então irá pagar um valor de 312,50 reais de taxa de renovação.`
+    texto: `Olá , tudo bem? Verificamos que somente visualizou e não respondeu.
+Ainda possuí interesse em nossos cursos ou posso encerrar seu contato?`
 },
 {
     id: "Cursos na área de Gestão",
