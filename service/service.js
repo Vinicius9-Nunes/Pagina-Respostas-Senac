@@ -42,15 +42,11 @@ Aulas práticas Presencias ( na faculdade).`
         },
         {
             id: "Desconto 50 por cento pós",
-            texto: `Nós estamos com uma bolsa para quem ainda não foi nosso aluno na Faculdade Senac.
-Essa bolsa proporciona 50% de desconto em toda tua pós-graduação.
+            texto: `O valor da renovação será calculada sobre o valor total que o aluno terá de economia no semestre.
 
-Como funciona: 
-
-Temos uma parceria com o Educa+Brasil.
-Terás 50% de desconto em toda tua pós-graduação e cada seis meses para manter a bolsa terás que pagar o mesmo valor que paga para o Senac para o Educa.
-O valor que é pago para o educa pode ser feito em até 6x.
-A forma de pagamento da pós-graduação é por boleto mensal.`
+Exemplo: No curso “x” o valor integral é 500 reais e o aluno terá a bolsa de 50%. A mensalidade que ele irá pagar será de 250 reais e ele terá uma economia dos outros 250 reais.
+            
+O valor total da economia no semestre será 250 reais multiplicado pelos 6 meses = 1250 reais. Sobre esse valor aplicamos 25%. O aluno então irá pagar um valor de 312,50 reais de taxa de renovação.`
         },
 
         {
@@ -88,6 +84,51 @@ Tens interesse em qual turno?`
     texto: `A forma de ingresso é através do nosso vestibular ou com a nota do Enem do ano passo ou ano atual.
 O vestibular é uma prova de redação com temas da atualidade, podes acessar através do link que eu encaminhar e fazer de casa.`
 },
+{
+    id: "Cursos na área de tecnologia",
+    texto: `Na área de tecnologia temos:
 
+Tecnólogo em Defesa Cibernética;
+Tecnólogo em Redes de computadores;
+Tecnólogo em  Sistemas para Internet;
+Tecnólogo em Análise de Desenvolvimento de Sistemas;
+Tecnólogo em ciência de dados e inteligência analítica.`
+},
+{
+    id: "Horários",
+    texto: `Temos dois horários:
+
+Manhã das 9h ás 12h
+Noite das 19:30 ás 22h`
+},
+{
+    id: "Matrícula antecipada",
+    texto: `Como as aulas irão iniciar em agosto já estamos com matrículas abertas este mês, o aluno pode fazer em mais vezes.
+É chamado matrícula antecipada.
+O aluno vai poder fazer em mais parcelas o primeiro semestre pois as aulas ainda não iniciaram, se ele deixar para fazer lá no início de agosto o parcelamento vai ser menor por que se for maior pode somar com o próximo semestre ( e o Senac não permite pois é prejudicial ao aluno).
+Então se tu fizer tua matrícula este mês pode fazer em 1+8.`
+},
+{
+    id: "Interesse no curso?",
+    texto: `O valor da renovação será calculada sobre o valor total que o aluno terá de economia no semestre.
+
+Exemplo: No curso “x” o valor integral é 500 reais e o aluno terá a bolsa de 50%. A mensalidade que ele irá pagar será de 250 reais e ele terá uma economia dos outros 250 reais.
+
+O valor total da economia no semestre será 250 reais multiplicado pelos 6 meses = 1250 reais. Sobre esse valor aplicamos 25%. O aluno então irá pagar um valor de 312,50 reais de taxa de renovação.`
+},
+{
+    id: "Cursos na área de Gestão",
+    texto: `Graduações na área de Gestão: 
+
+Bacharelado em Administração;
+Bacharelado em Ciências Contábeis;
+Tecnólogo em Comércio Exterior;
+Tecnólogo em Gestão Comercial;
+Tecnólogo em Gestão Financeira;
+Tecnólogo em Hotelaria;
+Tecnólogo em Marketing; 
+Tecnólogo em Processos Gerenciais;
+Tecnólogo em Gestão de Recursos Humanos.`
+},
     ]
 }
