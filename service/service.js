@@ -97,7 +97,7 @@ Tecnólogo em ciência de dados e inteligência analítica.`
 {
     id: "Horários",
     texto: `Temos dois horários:
-
+    
 Manhã das 9h ás 12h
 Noite das 19:30 ás 22h`
 },
@@ -105,7 +105,7 @@ Noite das 19:30 ás 22h`
     id: "Matrícula antecipada",
     texto: `Como as aulas irão iniciar em agosto já estamos com matrículas abertas este mês, o aluno pode fazer em mais vezes.
 É chamado matrícula antecipada.
-O aluno vai poder fazer em mais parcelas o primeiro semestre pois as aulas ainda não iniciaram, se ele deixar para fazer lá no início de agosto o parcelamento vai ser menor por que se for maior pode somar com o próximo semestre ( e o Senac não permite pois é prejudicial ao aluno).
+O aluno vai poder fazer em mais parcelas o primeiro semestre pois as aulas ainda não iniciaram, se ele deixar para fazer lá no início de agosto o parcelamento vai ser menor por que se for maior pode somar com o próximo semestre (Senac não permite pois é prejudicial ao aluno).
 Então se tu fizer tua matrícula este mês pode fazer em 1+8.`
 },
 {

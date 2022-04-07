@@ -24,9 +24,13 @@ function ApresentarTexto(){
 }
 
 function Copiar(seletor){
+    const tagTextoEditavel = "texto-editavel"
+    var htmlTextoEditavel = PegarTagHtml(tagTextoEditavel)
+    htmlTextoEditavel.value = ""
     let seletorFormatado = seletor.id.replaceAll('_', ' ')
     const response = this.dados.find(obj => obj.id == seletorFormatado)
     
+    htmlTextoEditavel.value = response.texto
     navigator.clipboard.writeText(response.texto)
 }
 
