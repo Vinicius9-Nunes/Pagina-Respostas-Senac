@@ -14,7 +14,7 @@ function ApresentarTexto(){
         tagHtml.innerHTML += `
         <div class='caixa row'>
             <span id='${id}' class='col-4' span-caixa>
-                ${dado.id}
+                ${dado.name}
             </span>
             <button id='${id}Botao' onclick='Copiar(${id})' type="button" class="col-1 btn btn-outline-warning btn-sm ">
                 Copiar
