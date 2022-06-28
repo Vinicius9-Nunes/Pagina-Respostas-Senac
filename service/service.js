@@ -136,11 +136,53 @@ Qualquer dúvida estarei a sua disposição.`
     name: "Desconto 60% Email",
     texto: `Boa tarde!\n
 Tudo bem? 😃\n    
-Você foi contemplada com 60% de desconto em toda sua graduação de Administração, através da parceria que temos com sua empresa!!🤩🤩
-Segue abaixo o portfólio do Tecnólogo em Gestão Financeira.\n    
+Você foi contemplada com 60% de desconto em toda sua graduação, através da parceria que temos com sua empresa!!🤩🤩
+Segue abaixo o portifólio do Bacharelado em Administração.\n    
+Qualquer dúvida, estou à disposição através do whatsApp 51 991341840\n    
+Atenciosamente,`
+},
+{
+    id: "Desconto 60 por cento sugestão de curso",
+    name: "60% sugestão de curso",
+    texto: `Boa tarde!\n
+Tudo bem? 😃\n    
+Você foi contemplada com 60% de desconto em toda sua graduação através da parceria que temos com sua empresa!!🤩🤩
+Segue abaixo as sugestões de cursos que ofertamos.\n\n    
+Graduações na área de Gestão:\n
+Bacharelado em Administração;
+Bacharelado em Ciências Contábeis;
+Tecnólogo em Comércio Exterior;
+Tecnólogo em Gestão Comercial;
+Tecnólogo em Gestão Financeira;
+Tecnólogo em Hotelaria;
+Tecnólogo em Marketing;
+Tecnólogo em Processos Gerenciais;
+Tecnólogo em Gestão de Recursos Humanos.\n    
+Graduações na área tecnologia temos:\n    
+Tecnólogo em Defesa Cibernética;
+Tecnólogo em Redes de computadores;
+Tecnólogo em Sistemas para Internet;
+Tecnólogo em Análise de Desenvolvimento de Sistemas;
+Tecnólogo em ciência de dados e inteligência analítica
+Tecnólogo em Produção Multimídia.\n    
 Qualquer dúvida estarei a sua disposição.
 Contato: 991341840\n    
 Atenciosamente,`
+},
+{
+    id: "Aproveitamento tecnologia",
+    name: "Aproveitamento tecnologia",
+    texto: `Boa tarde, tudo bem? Me chamo Natalí e sou consultora de vendas da Faculdade Senac.\n
+Verificamos que fizeste uma graduação na área de tecnologia conosco e estamos com uma ótima oportunidade!! 🤩🤩\n    
+Você como nosso aluno de tecnologia pode usar as disciplinas que cursou e aproveitar em outra graduação de tecnologia dependendo da situação você pode se formar em outra graduação em 6 meses!!!!!!!!`
+},
+{
+    id: "Teste de Carreira",
+    name: "Teste de Carreira",
+    texto: `Boa tarde, tudo bem? Me chamo Natalí e sou consultora de vendas da Faculdade Senac. 🤓\n
+Verificamos que fizeste o teste de carreira na plataforma Workalove.
+Atráves das opções que recebeu adequado com seu perfil, teria alguma graduação do seu interesse?\n
+Poderia te ajudar?🤩`
 }
     ]
 }
