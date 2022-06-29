@@ -183,6 +183,11 @@ Você como nosso aluno de tecnologia pode usar as disciplinas que cursou e aprov
 Verificamos que fizeste o teste de carreira na plataforma Workalove.
 Atráves das opções que recebeu adequado com seu perfil, teria alguma graduação do seu interesse?\n
 Poderia te ajudar?🤩`
-}
+},
+{
+    "id": "Prospec\u00E7\u00E3o",
+    "name": "Prospec\u00E7\u00E3o",
+    "texto": "Boa tarde, tudo bem? Me chamo Natal\u00ED e sou consultora de vendas da Faculdade Senac. \uD83E\uDD29\n\nEstou entrando em contato com voc\u00EA para te perguntar, voc\u00EA j\u00E1 \u00E9 graduado?\n\nSe n\u00E3o!!! O que falta? \uD83D\uDE31\n\nBora se desenvolver? \uD83D\uDCAA\n\nEstamos com bolsas e ofertas para voc\u00EA se desenvolver e crescer no mercado de trabalho.\nTens interesse em saber maiores informa\u00E7\u00F5es? \u263A\uFE0F"
+  }
     ]
 }
